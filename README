@@ -1,0 +1,13 @@
+# 🛡️ OjoVeci – La voz del barrio
+
+Este es un sitio web de ejemplo para demostrar CI/CD usando GitHub Actions y GitHub Pages.
+
+## 📌 Descripción
+OjoVeci es una aplicación ciudadana que busca mejorar la comunicación entre vecinos mediante alertas geolocalizadas, fomentando la seguridad y la participación comunitaria.
+
+## ⚙️ Tecnologías utilizadas
+- HTML5
+- CSS3
+- GitHub Actions
+- GitHub Pages
+
